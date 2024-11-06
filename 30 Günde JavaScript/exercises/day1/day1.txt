@@ -1,0 +1,42 @@
+1- Write a single line comment which says, comments can make code readable
+
+2- Write another single comment which says, Welcome to 30DaysOfJavaScript
+
+3- Write a multiline comment which says, comments can make code readable, easy to reuse and informative
+
+4- Create a variable.js file and declare variables and assign string, boolean, undefined and null data types
+
+5- Create datatypes.js file and use the JavaScript typeof operator to check different data types. Check the data type of each variable
+
+6- Declare four variables without assigning values
+
+7- Declare four variables with assigned values
+
+8- Declare variables to store your first name, last name, marital status, country and age in multiple lines
+
+9- Declare variables to store your first name, last name, marital status, country and age in a single line
+
+10- Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
+
+
+//-- Türkçesi --//
+
+1- Yorumların kodu okunabilir hale getirebileceğini söyleyen tek satırlık bir yorum yazın
+
+2- 30DaysOfJavaScript'e Hoş Geldiniz yazan başka bir tek yorum yazın
+
+3- Yorumların kodu okunabilir, yeniden kullanımı kolay ve bilgilendirici hale getirebileceğini söyleyen çok satırlı bir yorum yazın
+
+4- Bir değişken.js dosyası oluşturun ve değişkenleri bildirin ve string, boolean, undefined ve null veri türleri atayın
+
+5- datatypes.js dosyasını oluşturun ve farklı veri türlerini kontrol etmek için JavaScript typeof operatörünü kullanın. Her değişkenin veri türünü kontrol edin
+
+6- Değer atamadan dört değişken bildirin
+
+7- Atanan değerlerle dört değişken bildirin
+
+8- Adınızı, soyadınızı, medeni durumunuzu, ülkenizi ve yaşınızı birden fazla satırda saklamak için değişkenleri bildirin
+
+9- Adınızı, soyadınızı, medeni durumunuzu, ülkenizi ve yaşınızı tek bir satırda saklamak için değişkenleri bildirin
+
+10- myAge ve yourAge olmak üzere iki değişken tanımlayın ve bunlara başlangıç değerleri atayın ve tarayıcı konsoluna giriş yapın.
